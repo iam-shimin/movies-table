@@ -1,0 +1,32 @@
+table {
+    width: 90%;
+    height: 18.75rem;
+    margin: auto;
+    padding: 1.5em 1em;
+}
+
+h3 {
+    display: inline;
+}
+
+td button {
+    background-color: #b11408;
+    border: solid 1px;
+    font-size: 1.2rem;
+}
+
+td button:hover {
+    background-color: #e61b0c;
+}
+
+.pgn-active {
+    border: solid 2px;
+}
+
+main {
+    margin-left: 3rem;
+}
+.app-movies {
+    display: flex;
+    padding: 1.5rem 3rem
+}
